@@ -6,6 +6,7 @@ channels:
 dependencies:
   - python==3.6.7
   - pytorch==1.4.0
+  - h5py
   - torchvision
   - fastprogress
   - fastai
@@ -18,11 +19,9 @@ dependencies:
   - numpy
   - cython==0.29.14
   - tensorboardx
+  - yaml
   - pip
   - pip:
-      - h5py
-      - yaml
-      - pprint
       - enum34
       - future
       - scipy==1.4.1
