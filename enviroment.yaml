@@ -4,7 +4,7 @@ channels:
   - pytorch
   - fastai
 dependencies:
-  - python==3.7
+  - python==3.6.7
   - pytorch==1.4.0
   - h5py
   - torchvision
@@ -25,13 +25,13 @@ dependencies:
       - enum34
       - future
       - scipy==1.4.1
-      - scikit_image
+      - scikit_image==0.13.1
       - lmdb==0.94
       - easydict==1.7
       - plyfile==0.6
-      - opencv_contrib_python==3.4.2.17
+      - opencv_contrib_python==3.4.2.16
       - lmdb==0.94
       - glumpy==1.0.6
-      - scikit-learn
+      - scikit-learn==0.24.1
       - easydict==1.7
       - termcolor==1.1.0
