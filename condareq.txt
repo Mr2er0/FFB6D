@@ -1,0 +1,14 @@
+pytorch==1.5.0
+h5py
+torchvision
+fastprogress
+jupyter
+scipy==1.2.1
+matplotlib==3.0.2
+setuptools==41.0.0
+cffi==1.11.5
+numpy
+cython==0.29.14
+tensorboardx
+yaml
+pip
