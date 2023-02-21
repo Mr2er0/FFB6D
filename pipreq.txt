@@ -1,0 +1,15 @@
+enum34
+future
+scipy==1.4.1
+scikit_image
+lmdb==0.94
+easydict==1.7
+plyfile==0.6
+opencv_contrib_python==3.4.2.16
+lmdb==0.94
+glumpy==1.0.6
+scikit-learn==0.24.1
+easydict==1.7
+termcolor==1.1.0
+fastai
+transforms3d==0.3.1
