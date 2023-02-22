@@ -5,7 +5,7 @@ scikit_image
 lmdb==0.94
 easydict==1.7
 plyfile==0.6
-opencv_contrib_python==3.4.2.18
+opencv_contrib_python==3.4
 lmdb==0.94
 glumpy==1.0.6
 scikit-learn==0.24.1
