@@ -1,6 +1,6 @@
 pytorch==1.5.0
 h5py
-torchvision
+torchvision==0.6.0
 fastprogress
 jupyter
 scipy==1.2.1
